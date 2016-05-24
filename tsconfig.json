@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "target": "es5",
+    "outFile": "./www/js/index.js",
+    "sourceMap": true
+  },
+  "files": [
+    "./www/ts/index.ts"
+  ],
+  "exclude": [
+    "hooks",
+    "node_modules",
+    "platforms",
+    "plugins"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "extends": "standard",
+    "plugins": [
+        "standard"
+    ],
+    "parser": "typescript-eslint-parser"
+}
